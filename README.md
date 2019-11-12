@@ -2,6 +2,8 @@
 
 ## Objectives
 
+A CHANGE
+
 - Understand the common methods we have access to from our Active Record
    associations
 - Use the methods that Active Record gives you based on your associations
